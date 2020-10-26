@@ -1,0 +1,22 @@
+/* important command
+   1. npx create-react-app NAME_OF_THE_APPLICATOIN 
+   2. npm start : run server
+   3. npm run build : to create a production build
+   4. git init
+   4-1. git config --global user.name "내 이름", 확인: git config user.name
+   4-2. git config --global user.email "내 메일주소", 확인: git config user.email
+   5. git remot add origin "URL from github"
+   6. git add .  == git add -A
+   7. git commit -m "Message"
+   8. git push origin master
+   
+   돌아갈 때 git log 명령어 - 일련번호 앞 6자리가 중요!
+   9. git reset 일련번호 --hard : 이전으로 돌아가는 방법 1
+   10. git revert 일련번호 : 이전으로 돌아가는 방법 2
+   11. git branch 브랜치명 : 새로운 브랜치 만들기
+   12. git checkout 브랜치명 : 새로운 브랜치로 옮겨가기
+   13. git merge 합칠 브랜치명: ex) git merge notsure -> ;wq
+   14. git rebase 합칠 브랜치명
+   15. git log --graph --all --decorate : 시각화된 분기작업 내용 디스플레이
+   16. git branch -D 브랜치명: 사용을 끝낸 브랜치 삭제
+   */
