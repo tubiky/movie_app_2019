@@ -5,7 +5,7 @@
    4. git init
    4-1. git config --global user.name "내 이름", 확인: git config user.name
    4-2. git config --global user.email "내 메일주소", 확인: git config user.email
-   5. git remot add origin "URL from github"
+   5. git remote add origin "URL from github"
    6. git add .  == git add -A
    7. git commit -m "Message"
    8. git push origin master
