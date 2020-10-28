@@ -1,7 +1,4 @@
 /* important command
-   1. npx create-react-app NAME_OF_THE_APPLICATOIN 
-   2. npm start : run server
-   3. npm run build : to create a production build
    4. git init
    4-1. git config --global user.name "내 이름", 확인: git config user.name
    4-2. git config --global user.email "내 메일주소", 확인: git config user.email
@@ -19,4 +16,12 @@
    14. git rebase 합칠 브랜치명
    15. git log --graph --all --decorate : 시각화된 분기작업 내용 디스플레이
    16. git branch -D 브랜치명: 사용을 끝낸 브랜치 삭제
+
+
+   Node.Js 관련 커맨드
+   1. npx create-react-app NAME_OF_THE_APPLICATOIN 
+   2. npm start : run server
+   3. npm run build : to create a production build
+   4. npm i prop-type
+
    */
